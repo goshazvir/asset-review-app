@@ -1,0 +1,102 @@
+[
+  {
+    "id": 48486,
+    "creator": {
+      "id": 49119,
+      "handle": "terrycrews",
+      "name": "Terry Crews",
+      "profilePictureUrl": "https://kyra-images.kyra.com/username/terrycrews"
+    },
+    "assetUrl": "https://kyra-images.kyra.com/video/7567501991031672095.mp4",
+    "thumbnailUrl": "https://kyra-images.kyra.com/thumbnail/7567501991031672095",
+    "caption": "One of my favorite costumes ever!! Love me some Mr. T and Halloween!!! 🔥 #halloween",
+    "soundUrl": "https://www.tiktok.com/music/original-sound-7567507046078204703",
+    "status": "APPROVED",
+    "deliverable": {
+      "id": 134586,
+      "brief": {
+        "id": 12,
+        "name": "#KyraChallenge"
+      },
+      "title": "TikTok Post Content Review",
+      "deadline": "2025-10-31",
+      "submissionOrigin": "TIKTOK",
+      "fees": 3250
+    }
+  },
+  {
+    "id": 48482,
+    "creator": {
+      "id": 8809,
+      "handle": "jasonderulo",
+      "name": "Jason Derulo",
+      "profilePictureUrl": "https://kyra-images.kyra.com/username/jasonderulo"
+    },
+    "assetUrl": "https://kyra-images.kyra.com/video/7561859064007773453.mp4",
+    "thumbnailUrl": "https://kyra-images.kyra.com/thumbnail/7561859064007773453",
+    "caption": "Movie night snack challenge #jasonking #movienight #snackchallenge",
+    "soundUrl": "https://www.tiktok.com/music/original-sound-7561859139606039309",
+    "status": "PENDING_ADMIN_REVIEW",
+    "deliverable": {
+      "id": 76727,
+      "brief": {
+        "id": 12,
+        "name": "#KyraChallenge"
+      },
+      "title": "TikTok Post Content Review",
+      "deadline": "2025-11-06",
+      "submissionOrigin": "TIKTOK",
+      "fees": 2000
+    }
+  },
+  {
+    "id": 27028,
+    "creator": {
+      "id": 10957,
+      "name": "Bella Poarch",
+      "handle": "bellapoarch",
+      "profilePictureUrl": "https://kyra-images.kyra.com/username/bellapoarch"
+    },
+    "assetUrl": "https://kyra-images.kyra.com/video/7553422683011091743.mp4",
+    "thumbnailUrl": "https://kyra-images.kyra.com/thumbnail/7553422683011091743",
+    "caption": "Back in Milan for @Gucci💜 #GucciTheTiger #GucciLaFamiglia",
+    "soundUrl": "https://www.tiktok.com/music/original-sound-7561859139606039309",
+    "status": "PENDING_ADMIN_REVIEW",
+    "deliverable": {
+      "id": 134651,
+      "brief": {
+        "id": 12,
+        "name": "#KyraChallenge"
+      },
+      "title": "Video file",
+      "deadline": null,
+      "submissionOrigin": "TIKTOK",
+      "fees": null
+    }
+  },
+  {
+    "id": 7132,
+    "creator": {
+      "id": 8659,
+      "name": "Selena Gomez",
+      "handle": "selenagomez",
+      "profilePictureUrl": "https://kyra-images.kyra.com/username/selenagomez"
+    },
+    "assetUrl": "https://kyra-images.kyra.com/video/7540723910002674999.mp4",
+    "thumbnailUrl": "https://kyra-images.kyra.com/thumbnail/7540723910002674999",
+    "caption": "In case you've ever wondered what's in my bag lol @Rare Beauty",
+    "soundUrl": "https://www.tiktok.com/music/original-sound-7540724034556660493",
+    "status": "PENDING_ADMIN_REVIEW",
+    "deliverable": {
+      "id": 35978,
+      "brief": {
+        "id": 12,
+        "name": "#KyraChallenge"
+      },
+      "title": "TikTok Post Content Review",
+      "deadline": "2025-11-30",
+      "submissionOrigin": "TIKTOK",
+      "fees": 5500
+    }
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "assetId": 48486,
+    "name": "Maya R. (Content Lead)",
+    "timestamp": "2025-10-29T10:15:00+00:00",
+    "comment": "Energy is perfect and costume reads instantly on thumb. Approved for #KyraChallenge—no edits needed."
+  },
+  {
+    "id": 2,
+    "assetId": 48486,
+    "name": "Leo S. (Brand Safety)",
+    "timestamp": "2025-10-29T11:02:00+00:00",
+    "comment": "Caption is fun; consider adding a light CTA like “Show me your costume 👇” but not blocking approval."
+  },
+  {
+    "id": 3,
+    "assetId": 48486,
+    "name": "Ava P. (Post Ops)",
+    "timestamp": "2025-10-30T09:40:00+00:00",
+    "comment": "Scheduled for cross-post. Sound is original—rights cleared. 🤝"
+  },
+  {
+    "id": 4,
+    "assetId": 48482,
+    "name": "Jon K. (Editor)",
+    "timestamp": "2025-11-05T16:20:00+00:00",
+    "comment": "Great pacing. Could we trim the first 0.5s to hit the hook faster?"
+  },
+  {
+    "id": 5,
+    "assetId": 48482,
+    "name": "Priya D. (Legal)",
+    "timestamp": "2025-11-05T17:05:00+00:00",
+    "comment": "Confirm no third-party brand packaging shows logos longer than 3s. Quick blur if needed."
+  },
+  {
+    "id": 6,
+    "assetId": 48482,
+    "name": "Sam T. (Community)",
+    "timestamp": "2025-11-06T08:10:00+00:00",
+    "comment": "Add #KyraChallenge in the first line of the caption and pin a comment asking for snack combos."
+  },
+  {
+    "id": 7,
+    "assetId": 27028,
+    "name": "Giulia V. (Fashion PM)",
+    "timestamp": "2025-11-04T13:30:00+00:00",
+    "comment": "Love the Milan b-roll—on brand for Gucci. Please confirm location release for Galleria clip."
+  },
+  {
+    "id": 8,
+    "assetId": 27028,
+    "name": "Rex C. (Audio QA)",
+    "timestamp": "2025-11-04T14:12:00+00:00",
+    "comment": "Audio matches listed original sound; volume peaks at 0:07—can you normalize to -14 LUFS?"
+  },
+  {
+    "id": 9,
+    "assetId": 27028,
+    "name": "Nora L. (Editorial)",
+    "timestamp": "2025-11-05T09:55:00+00:00",
+    "comment": "Suggest adding a one-line VO: “Back in Milan with the fam 💜” to tie to #GucciLaFamiglia."
+  },
+  {
+    "id": 10,
+    "assetId": 7132,
+    "name": "Ken A. (Creative)",
+    "timestamp": "2025-11-06T07:45:00+00:00",
+    "comment": "Great ‘what’s in my bag’ format. Can we show the Rare Beauty logo clearly at 0:11 for 1s?"
+  },
+  {
+    "id": 11,
+    "assetId": 7132,
+    "name": "Olivia M. (Compliance)",
+    "timestamp": "2025-11-06T07:58:00+00:00",
+    "comment": "Please add #ad and a short disclosure line in the first 3 lines of the caption per policy."
+  },
+  {
+    "id": 12,
+    "assetId": 7132,
+    "name": "Diego P. (Analytics)",
+    "timestamp": "2025-11-06T08:20:00+00:00",
+    "comment": "Recommend a poll sticker in comments: “Must-have item?” to drive saves/engagement."
+  }
+]
