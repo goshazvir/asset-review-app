@@ -57,6 +57,12 @@ api/                 # Nitro backend (mock data)
 
 Next.js 15, React 19, TypeScript, Tailwind CSS 4, SWR
 
+## Performance
+
+| Desktop | Mobile |
+|---------|--------|
+| ![Desktop](docs/images/pagespeed-desktop.png) | ![Mobile](docs/images/pagespeed-mobile.png) |
+
 ## License
 
 MIT
