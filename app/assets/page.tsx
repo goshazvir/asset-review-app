@@ -40,8 +40,8 @@ export default async function AssetsPage({ searchParams }: AssetsPageProps) {
             #KyraChallenge
           </h1>
           <div className="flex gap-2 mt-4">
-            <span className="px-2.5 py-1 bg-[#7c2d41] rounded text-xs text-[#e8a0b0]">IG &amp; TT</span>
-            <span className="px-2.5 py-1 bg-[#1e3a5f] rounded text-xs text-[#8eb4d9]">BCA</span>
+            <span className="px-2.5 py-1 bg-[#7c2d41] rounded text-xs text-[#ffc9d6]">IG &amp; TT</span>
+            <span className="px-2.5 py-1 bg-[#1e3a5f] rounded text-xs text-[#b8dff7]">BCA</span>
           </div>
         </header>
 

@@ -37,12 +37,12 @@ export function FilterTabs({ assets, activeFilter }: FilterTabsProps) {
                 'inline-flex items-center gap-2 text-sm transition-colors px-3 py-1.5 rounded-md',
                 isActive
                   ? 'bg-zinc-700 text-white'
-                  : 'text-zinc-500 hover:text-zinc-300 hover:bg-zinc-800'
+                  : 'text-zinc-400 hover:text-zinc-200 hover:bg-zinc-800'
               )}
             >
               <StatusDot status={tab.value} />
               <span>{tab.label}</span>
-              <span className={cn(isActive ? 'text-zinc-300' : 'text-zinc-500')}>{count}</span>
+              <span className={cn(isActive ? 'text-zinc-300' : 'text-zinc-400')}>{count}</span>
             </Link>
           );
         })}
